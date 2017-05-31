@@ -1,0 +1,32 @@
+{
+    	"avatar": "http://upload-images.jianshu.io/upload_images/2319568-0b3bb65efca4fe1b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+    	"name": "朱润石",
+    	"tag": "Java开发/技术但不宅",
+    	"desc": "主攻Java开发，喜欢接触新鲜事物，业余关注网络安全",
+    	"projects": [{
+		"name": "大整数计算器",
+		"image": "http://ok9k2r25r.bkt.clouddn.com/bigInteger-index.png",
+		"tags": ["2014", "数据结构"],
+		"description": "基于双向链表的大整数计算器，可以进行加、减、乘、除、取余和指数运算，并且可以将运算结果导出成文本文件。",
+		"link_text": "GitHub地址",
+		"link": "https://github.com/zhurunshi/ZJUT/tree/master/Data-Structures-and-Algorithm-Analysis/bigInteger(big%20Ex)"
+		}, {
+		"name": "网上书店",
+		"image": "http://ok9k2r25r.bkt.clouddn.com/bookstore-index.png",
+		"description": "网上书店系统，使用struts+spring+hibernate集成框架，是JavaEE课程的练手系统。",
+		"tags": ["2016", "JavaEE"],
+		"link_text": "GitHub地址",
+		"link": "https://github.com/zhurunshi/ZJUT/tree/master/JavaEE-Technology/bookstore"
+	}, {
+		"name": "金融服务网",
+		"image": "http://ok9k2r25r.bkt.clouddn.com/ksjrfw-index.jpg",
+		"tags": ["2016", "Grails"],
+		"description": "网站为金融机构、政府机构、企业机构提供一个发布信用贷款、以及金融产品的平台，目的是为中小型企业提供融资服务。本人负责项目的全栈开发。",
+		"link_text": "网站链接",
+		"link": "http://www.ksjrfw.com/"
+	}],
+	"reward": [
+	    "http://ok9k2r25r.bkt.clouddn.com/wechat-reward.png",
+	    "http://ok9k2r25r.bkt.clouddn.com/alipay-reward.png"
+	]
+}
